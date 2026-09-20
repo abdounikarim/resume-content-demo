@@ -1,0 +1,164 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Richard Hendriks",
+    "label": "Programmeur",
+    "image": "",
+    "email": "richard.hendriks@mail.com",
+    "phone": "(912) 555-4321",
+    "url": "http://richardhendricks.example.com",
+    "summary": "Richard est originaire de Tulsa. Il a obtenu ses diplômes à l'Université de l'Oklahoma et à Stanford. (Allez Sooners et Cardinal !) Avant de fonder Pied Piper, il travaillait chez Hooli comme développeur logiciel à temps partiel. Bien que son travail porte sur la théorie de l'information appliquée, principalement l'optimisation de schémas de compression sans perte à longueur limitée et adaptatifs, ses centres d'intérêt en dehors du travail sont très variés, allant de l'informatique quantique à la théorie du chaos. Il pourrait vous en parler, mais ce ne serait certainement pas une conversation « à longueur limitée » !",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "Californie"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": "https://www.twitter.com"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.example.com/dandymusicnl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Une entreprise de compression exceptionnelle",
+      "position": "PDG/Président",
+      "url": "http://piedpiper.example.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper est une technologie multiplateforme basée sur un algorithme de compression universel propriétaire qui a constamment obtenu des scores de Weisman™ élevés, non seulement compétitifs mais approchant la limite théorique de la compression sans perte.",
+      "highlights": [
+        "Conception d'un algorithme permettant aux artistes de détecter si leur musique enfreignait les lois sur le droit d'auteur",
+        "Victoire au Techcrunch Disrupt",
+        "Optimisation d'un algorithme détenant le record du monde actuel de scores de Weisman"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Enseignant",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Mouvement mondial de clubs de programmation gratuits pour les jeunes.",
+      "highlights": [
+        "Reçu le prix « Enseignant du mois »"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Technologies de l'information",
+      "studyType": "Licence",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Introduction au SQL",
+        "CS2011 - Introduction à Java"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "Il n'y a pas de cuillère."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Un algorithme de compression innovant « middle-out » qui change notre façon de stocker les données."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Développement Web",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Faune sauvage",
+      "keywords": [
+        "Furets",
+        "Licornes"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "C'est avec plaisir que je recommande Richard ; ses performances en tant que consultant pour Main St. Company ont prouvé qu'il serait un atout précieux pour n'importe quelle entreprise."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Miss Direction",
+      "description": "Un moteur de cartographie qui vous égare",
+      "highlights": [
+        "Lauréat d'un prix à AIHacks 2016",
+        "Développé par une équipe entièrement féminine de programmeuses débutantes",
+        "Utilisation de technologies modernes telles que GoogleMaps, Chrome Extension et Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "http://missdirection.example.com",
+      "roles": [
+        "Chef d'équipe",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
